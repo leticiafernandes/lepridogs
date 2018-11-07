@@ -1,3 +1,16 @@
+
+/*		commom		*/
+section#description, section#team {
+	/*background-color: #edb400;
+	color: #fff;*/
+	font-family: Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+}
+
+section#description p, section#team p {
+    font-size: 1rem;
+}
+
+/*		contact		*/
 section#contact .email {
 	color: #fff;
     margin-top: 50px;
